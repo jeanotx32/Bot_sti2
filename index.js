@@ -26,4 +26,4 @@ fs.readdir('./Events/', (error, f) => {
         });
 });
 
-client.login('NjY0NTU0MTE5NzkyNTU4MTMx.XhZCQg.qaiBnccryEUNNtyYxrvTJE6QGIY');
+client.login('TOKEN');
